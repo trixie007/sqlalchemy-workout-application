@@ -1,0 +1,29 @@
+Single-database configuration for Flask.
+# Workout Tracking Application Backend
+
+## Project Description
+
+This is a Flask REST API for a workout tracking application.
+
+The application allows personal trainers to:
+- Create and manage workouts.
+- Create and manage reusable exercises.
+- Associate exercises with workouts.
+- Track sets, repetitions, and exercise duration.
+
+## Technologies Used
+
+- Python
+- Flask
+- Flask-SQLAlchemy
+- Flask-Migrate
+- SQLite
+- Marshmallow
+- Pipenv
+
+## Installation
+
+Clone the repository:
+
+```bash
+git clone YOUR_GITHUB_REPOSITORY_URL
